@@ -1,3 +1,4 @@
+google-site-verification: google61371f6f8cbbde60.html
 # IEEE-754-32-bit-Floating-Point-Subtraction-Verilog
 This project implements a single-precision IEEE-754 floating-point subtraction unit using Verilog HDL. It performs sign handling, exponent alignment, mantissa subtraction, and result normalization. The design is verified through simulation and is suitable for understanding basic FPU operation and digital arithmetic design.
 
